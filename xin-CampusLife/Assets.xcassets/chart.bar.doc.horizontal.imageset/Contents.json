@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "chart.bar.doc.horizontal.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "chart.bar.doc.horizontal 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "chart.bar.doc.horizontal 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
